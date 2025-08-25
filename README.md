@@ -28,8 +28,8 @@ Completed **3+ full-stack projects** and solved **200+ DSA problems**.
 #### **Tools & Platforms**
 - AWS (S3, RDS), Git, GitHub, Render, Netlify, Vercel  
 
-#### **Programming**
-- Java, Python, Data Structures & Algorithms, OOP  
+#### **Programming And Concepts**
+- Java, c#, Data Structures & Algorithms, OOP  
 
 
 
