@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anis Sayyad</h1>
-<h3 align="center">
+<h3 >
 A passionate and motivated Full-Stack Developer skilled in building scalable and user-friendly web applications.  
 Proficient in **JavaScript, React.js, Node.js, MongoDB, and AWS** with a strong foundation in **DSA, OOP, and problem-solving**.  
 Completed **3+ full-stack projects** and solved **200+ DSA problems**.
