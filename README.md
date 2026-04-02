@@ -1,35 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anis Sayyad</h1>
 <h3 >
-A passionate and motivated Full-Stack Developer skilled in building scalable and user-friendly web applications.  
-Proficient in **JavaScript, React.js, Node.js, MongoDB, and AWS** with a strong foundation in **DSA, OOP, and problem-solving**.  
-Completed **3+ full-stack projects** and solved **200+ DSA problems**.
-</h3>
+Anis Sayyad is a Computer Science graduate and Unity Certified Associate Game Developer with a strong foundation in gameplay programming using C#. He has hands-on experience developing multiple playable games using the Unity Engine, focusing on core systems such as player movement, combat mechanics, enemy AI, puzzle design, and interactive UI.
 
----
+His work demonstrates practical knowledge of Unity systems including Animator, physics (Rigidbody and collision), particle systems, audio integration, and performance optimization techniques such as object pooling and efficient scripting. Through his projects, he has built complete gameplay experiences that combine mechanics, visuals, and user interaction.
 
-### 🚀 **About Me**
-- 💻 Building **MERN Stack** and **Full-Stack** applications  
-- 🌱 Currently exploring **Cloud Services (AWS)** and **Advanced Backend Architectures**  
-- 🎯 Looking for opportunities in **Backend, Frontend, or Full-Stack Developer roles**  
-- ⚡ Fun fact: I enjoy creating tech solutions while listening to Lo-Fi 🎶
+Anis has successfully completed the Google Play x Unity Game Developer training program, gaining structured, industry-relevant knowledge of game development workflows and best practices. His GitHub and portfolio showcase real, working projects that reflect his ability to design, develop, and optimize game features independently.
 
----
-
-### 🛠️ **Tech Stack**
-#### **Frontend**
-- React.js, Redux, Tailwind CSS, HTML, CSS, JavaScript  
-
-#### **Backend**
-- Node.js, Express.js, REST APIs, Authentication & Authorization  
-
-#### **Database**
-- MongoDB, PostgreSQL, MySQL  
-
-#### **Tools & Platforms**
-- AWS (S3, RDS), Git, GitHub, Render, Netlify, Vercel  
-
-#### **Programming And Concepts**
-- Java, c#, Data Structures & Algorithms, OOP  
+As a fresher, he is actively seeking entry-level or internship opportunities in game development, where he can contribute to real-world projects, collaborate with development teams, and continue improving his technical and creative skills. He is a quick learner with a strong interest in building engaging and polished gameplay experiences.
 
 
 
